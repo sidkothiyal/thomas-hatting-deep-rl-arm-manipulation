@@ -1,4 +1,4 @@
-# thomas-hatting-deep-rl-arm-manipulation
+# Project Deep RL Arm Manipulation
 
 PROJECT LICENSE
 
